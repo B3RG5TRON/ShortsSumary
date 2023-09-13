@@ -15,7 +15,7 @@ Aplicação construída no NLW AI da Rocketseat na trilha Foundations.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
